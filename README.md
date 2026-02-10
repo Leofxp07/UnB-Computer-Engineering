@@ -4,4 +4,4 @@ Repository containing codes and algorithms developed during my freshman year at 
 
 ## Contents
 - **Beecrowd:** Solutions for competitive programming challenges.
-- **Data Structures:** Implementations of lists, trees, and graphs in C.
+- **Data Structures:** Implementations of lists and trees in C.
