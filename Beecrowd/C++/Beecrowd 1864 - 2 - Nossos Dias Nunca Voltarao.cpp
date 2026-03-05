@@ -1,5 +1,5 @@
 /*
- * Beecrowd - Problema 1864 - Nossos Dias Nunca Voltarao
+ * Beecrowd - Problema 1864-2 - Nossos Dias Nunca Voltarao
  * Link do Desafio: https://judge.beecrowd.com/pt/problems/view/1864
  * * Autor: Leonardo Meneses
  */

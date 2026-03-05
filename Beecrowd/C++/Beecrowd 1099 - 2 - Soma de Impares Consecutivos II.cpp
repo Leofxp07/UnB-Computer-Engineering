@@ -1,5 +1,5 @@
 /*
- * Beecrowd - Problema 1099 - Soma de Impares Consecutivos II
+ * Beecrowd - Problema 1099-2 - Soma de Impares Consecutivos II
  * Link do Desafio: https://judge.beecrowd.com/pt/problems/view/1099
  * * Autor: Leonardo Meneses
  */

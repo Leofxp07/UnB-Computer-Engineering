@@ -1,5 +1,5 @@
 /*
- * Beecrowd - Problema 1096 - Sequencia IJ 2
+ * Beecrowd - Problema 1096-2 - Sequencia IJ 2
  * Link do Desafio: https://judge.beecrowd.com/pt/problems/view/1096
  * * Autor: Leonardo Meneses
  */

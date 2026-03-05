@@ -1,5 +1,5 @@
 /*
- * Beecrowd - Problema 1036 - Formula de Bhaskara
+ * Beecrowd - Problema 1036-2 - Formula de Bhaskara
  * Link do Desafio: https://judge.beecrowd.com/pt/problems/view/1036
  * * Autor: Leonardo Meneses
  */

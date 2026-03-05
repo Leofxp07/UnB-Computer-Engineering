@@ -1,5 +1,5 @@
 /*
- * Beecrowd - Problema 1060 - Números Positivos
+ * Beecrowd - Problema 1060 - Numeros Positivos
  * Link do Desafio: https://judge.beecrowd.com/pt/problems/view/1060
  * * Autor: Leonardo Meneses
  */
